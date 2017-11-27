@@ -31,7 +31,7 @@ class GVASpider(scrapy.Spider):
     def parse(self, response):
         #try:
         week = 1
-        year = 2016
+        year = 2014
         quarter = 4
 
         day, stop_criteria = h.get_day_range_for_quarter(year,quarter)
