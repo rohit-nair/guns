@@ -1,0 +1,158 @@
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /assets/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:47:54] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:51:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:51:21] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:51:21] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 14:51:22] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:51:22] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:51:22] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:51:22] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:51:22] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:51:22] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:51:22] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 14:51:22] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 14:51:22] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:00:34] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:02:55] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:10:18] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:12:48] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:00] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:00] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:01] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:16:38] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:12] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:12] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:12] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:12] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:17:13] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:17:13] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:17:13] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:17:13] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:17:13] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:17:13] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:17:13] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:17:13] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:17:13] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:18:06] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:18] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:18] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:19] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:19] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:20] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:20] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:20] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:20] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:20] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:20] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:20] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:20] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:20] "GET /favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/tufte.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/latex.css HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/custom/img/guns-and-death-rates.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/custom/img/us_incidents_map.png HTTP/1.1" 200 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] code 404, message File not found
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /assets/third_party/css/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf HTTP/1.1" 404 -
+127.0.0.1 - - [28/Nov/2017 15:19:39] "GET /favicon.png HTTP/1.1" 200 -
