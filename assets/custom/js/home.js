@@ -5,7 +5,7 @@ $('document').ready(function() {
 function renderDeathsVsOwnership() {
   var w = 725,
       h = 525,
-      margin = {top: 20, right: 20, bottom: 30, left: 50},
+      margin = {top: 20, right: 20, bottom: 30, left: 60},
       svg = d3.select("#foo").append('svg')
              //better to keep the viewBox dimensions with variables
             .attr("viewBox", "0 0 " + (w) + " " + (h) )
