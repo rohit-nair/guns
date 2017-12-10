@@ -1,0 +1,5 @@
+Script to read wiki table.
+
+$('table.wikitable tr').each(function(r, i) {
+$(i).find('td').each(function(c,j) { allData += "\"" + j.innerText + "\","; });
+allData += "\n"; })
