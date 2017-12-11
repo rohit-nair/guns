@@ -1,0 +1,36 @@
+* {
+  font-family: 'Catamaran', sans-serif;
+}
+.revel span, p {
+  font-size: 12px;
+}
+header {
+  background-color: rgb(27,27,27);
+  color: white;
+  padding: 25px;
+}
+header span {
+  font-size: 25px;
+}
+.left {
+  width: 33%;
+  display: inline-block;
+  float: left;
+}
+.right {
+  display: inline-block;
+  float: right;
+  top: 0;
+  width: 67%;
+}
+slides::after {
+  content: "";
+  background: url(../img/landing_background.png);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
