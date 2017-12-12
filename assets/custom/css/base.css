@@ -1,19 +1,47 @@
-* {
-  font-family: 'Catamaran', sans-serif;
+*,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: 'Catamaran', "Tableau Book", Tableau, Arial, sans-serif;
 }
-.revel span, p {
-  font-size: 12px;
+html,body { 
+  height: 100%; 
+  margin: 0px; 
+  padding: 0px; 
+}
+span.title_span {
+  color: #ff5733;
+}
+.right {
+  text-align: center;
+}
+.right .tableauplaceholder {
+  display: inline-block;
 }
 header {
   background-color: rgb(27,27,27);
   color: white;
   padding: 25px;
+  color: #F06355;
 }
 header span {
   font-size: 25px;
 }
+header .jump-links {
+  float: right;
+}
+header .jump-links .link {
+  display: inline-block;
+  padding: 5px;
+}
+header .jump-links .link a{
+  color: #A1CBE7;
+}
 .left {
-  width: 33%;
+  width: 32%;
   display: inline-block;
   float: left;
 }
@@ -22,6 +50,7 @@ header span {
   float: right;
   top: 0;
   width: 67%;
+  height: 100%;
 }
 slides::after {
   content: "";
@@ -33,4 +62,18 @@ slides::after {
   right: 0;
   position: absolute;
   z-index: -1;   
+}
+slide {
+  height: 100%;
+}
+.has-dark-background::after {
+  opacity: 0.5;
+}
+.supporting_text {
+  line-height: 12px !important;
+  text-align: justify;
+  font-family: "Tableau Book", Tableau, Arial, sans-serif;
+}
+.left .supporting_text span, p {
+  font-size: 12px;
 }

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en">
+  <head>
     <meta charset="utf-8">
     <title>Visualizing Gun Violence</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <!-- <link rel="stylesheet" href="assets/third_party/css/tufte.css"> -->
     <link rel="stylesheet" href="assets/third_party/css/latex.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="icon" type="image/png" href="favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="assets/custom/css/base.css">
 
     <script 
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
@@ -22,106 +22,116 @@
     <link rel="stylesheet" type="text/css" href="https://revealjs.com/css/reveal.css">
     <link rel="stylesheet" type="text/css" href="https://revealjs.com/css/theme/white.css">
     <script src="https://revealjs.com/js/reveal.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/custom/css/base.css">
   </head>
   <body>
     <header>
       <div class="header">
         <span>Visualizing Gun Violence</span>
+        <div class="jump-links">
+          <div class="link"><a href="#">Home</a></div>
+          <div class="link"><a href="#bg">Background Checks</a></div>
+          <div class="link"><a href="#economics">Economics</a></div>
+          <div class="link"><a href="#states">States</a></div>
+          <div class="link"><a href="#seasonality">Seasonality</a></div>
+          <div class="link"><a href="#victims">Victims</a></div>
+          <div class="link"><a href="#map">Map</a></div>
+        </div>
       </div>
     </header>
     <article class="reveal">
       <div class="slides">
         <section>
-          <section id="landing" data-background="rgb(27,27,27)">
+          <section id="home" data-background-image="assets/custom/img/landing_background.png" data-background="rgb(27,27,27)" class ="slide">
             <div class="left">
-              <h3>12,480 people died in 2017 in Gun related violence</h3>
+              <h3><span class="title-span" style="color: #ff5733;">14,647</span> people died and <span class="title-span" style="color: #ff5733;">29,678</span> were injured in Gun related violence
+              <div class="supporting_text" style="display: inline-block;"><span>IN 2017</span></div></h3>
             </div>
             <div class="right">
-              <h1>Me too has heading</h1>
             </div>
           </section>
-          <section id="intro">
+          <section id="intro" class ="slide">
             <div class="left">
               <h6>Introduction</h6>
-              <p>
-                America has the highest concentration of firearms per capita in the entire world. This has primarily been attributed to people’s “Right to keep and bear arms” protected by the second amendment of the constitution which went in effect on December 15, 1791.  The second amendment was influenced by the 1689 Bill of Rights act of parliament of England which states Protestants may have arms for their defence suitable to their conditions and as allowed by law. Incidentally, United Kingdom revised this act twice, once as part of 1920 Firearms Act which place serious control on firearms and later in 1953 when it was made a criminal offence to carry knife or any offensive weapon in public. 
-                The high concentration of firearms has resulted in significant amount of firearms related incidents in US and has been described by many experts as an uniquely American issue.
-              </p>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
             </div>
             <div class="right">
-              <p>
-                <figure>
-                    <img src="assets/custom/img/guns-and-death-rates.jpg" atl="Plot showing gun deaths vs gun ownership" />
-                </figure>
-                <span class="marginnote">US is an outlier when it comes to <em>gun related deaths</em> when compared to other developed countries.</span>
-              </p>
+              <div class='tableauPlaceholder' id='viz1513100227624' style='position: relative'><noscript><a href='#'><img alt='Outlier dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Outlierdashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Visualizations_23&#47;Outlierdashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Outlierdashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513100227624');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
           </section>
-          <section id="us">
-            <div class="left">
-              <h6>USA</h6>
-              <p>
-                To garner a better understanding of this issue and how it plays out over time, we are sharing <em>an interactive dashboard</em> below.
-              </p>
-            </div>
-            <div class="right">
-              <figure class="fullwidth">
-                <div class='tableauPlaceholder' id='viz1512002056420' style='position: relative'>
-                  <noscript>
-                    <a href='#'>
-                      <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting&#47;MapStory&#47;1_rss.png' style='border: none' />
-                    </a>
-                  </noscript>
-                  <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-                    <param name='embed_code_version' value='3' /> 
-                    <param name='site_root' value='' />
-                    <param name='name' value='UserTesting&#47;MapStory' />
-                    <param name='tabs' value='yes' />
-                    <param name='toolbar' value='yes' />
-                    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting&#47;MapStory&#47;1.png' /> 
-                    <param name='animate_transition' value='yes' />
-                    <param name='display_static_image' value='yes' />
-                    <param name='display_spinner' value='yes' />
-                    <param name='display_overlay' value='yes' />
-                    <param name='display_count' value='yes' />
-                  </object>
-                </div>
-                <script type='text/javascript'>
-                  var divElement = document.getElementById('viz1512002056420');
-                  var vizElement = divElement.getElementsByTagName('object')[0];
-                  vizElement.style.width='1150px';
-                  vizElement.style.height='1014px';
-                  var scriptElement = document.createElement('script');
-                  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-                  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-                </script>
-              </figure>
-            </div>
-            <p>
-               The data for this visualization has been collected from following sources:
-               <ul>
-                <li>Gun Violence Archive: Database of gun related incidents with data on victims and links to sources.</li>
-                <li>FBI NICS dataset for background check (demand side) data for federal/state level.</li>
-                <li>Wikipedia for per capita gun ownership by country and human development index.</li>
-                <li>ATF Bureau of Alcohol, Tobacco, Firearms and Explosives, for data on import/export/manufacturing of firearms.</li>
-               </ul>
-            </p>
-          </section>
-          <section id="bgChecks">
+          <section id="bg">
             <div class="left">
               <h6>Background Checks</h6>
-              <p>
-                tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-              </p>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
             </div>
             <div class="right">
-              <figure>
-                <span clas="marginnote">D3 Background checks over time.</span>
-                <div id="foo">
-                </div>
-                <span class="marginnote">Gun deaths in 2017</span>
-                <img src="assets/custom/img/us_incidents_map.png" alt="Gun deaths in US during 2017 plotted on map." />
-              </figure>
+              <div class='tableauPlaceholder' id='viz1513102696642' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;BackgroundStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UserTesting_0&#47;BackgroundStory' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;BackgroundStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513102696642');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='650px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+          </section>
+          <section id="economics">
+            <div class="left">
+              <h6>Economics</h6>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
+            </div>
+            <div class="right">
+              <div class='tableauPlaceholder' id='viz1513103557753' style='position: relative'><noscript><a href='#'><img alt='Economics ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;Economics&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UserTesting_0&#47;Economics' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;Economics&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513103557753');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+          </section>
+          <section id="states">
+            <div class="left">
+              <h6>US</h6>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
+            </div>
+            <div class="right">
+              <div class='tableauPlaceholder' id='viz1513104512425' style='position: relative'><noscript><a href='#'><img alt='Gun deaths dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Gundeathsdashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Visualizations_23&#47;Gundeathsdashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Gundeathsdashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513104512425');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+          </section>
+          <section id="seasonality">
+            <div class="left">
+              <h6>Seasonality</h6>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
+            </div>
+            <div class="right">
+              <div class='tableauPlaceholder' id='viz1513104544281' style='position: relative'><noscript><a href='#'><img alt='Seasonality dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Seasonalitydashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Visualizations_23&#47;Seasonalitydashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;Visualizations_23&#47;Seasonalitydashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513104544281');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+          </section>
+          <section id="victims">
+            <div class="left">
+              <h6>Victims</h6>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
+            </div>
+            <div class="right">
+              <div class='tableauPlaceholder' id='viz1513102653218' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;VictimsDash&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UserTesting_0&#47;VictimsDash' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;VictimsDash&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513102653218');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='650px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+          </section>
+          <section id="map">
+            <div class="left">
+              <h6>Map</h6>
+              <div class="supporting_text">
+                <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis
+                </span>
+              </div>
+            </div>
+            <div class="right">
+              <div class='tableauPlaceholder' id='viz1513102521101' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;GunViolenceVisualized&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UserTesting_0&#47;GunViolenceVisualized' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Us&#47;UserTesting_0&#47;GunViolenceVisualized&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1513102521101');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='650px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
           </section>
         </section>
@@ -131,10 +141,12 @@
     <script src="assets/custom/js/home.js"></script>
 
     <script>
-      Reveal.initialize({
-        width: "100%",
-        height: "100%"
-      });
+      Reveal.initialize(
+      // {
+      //   width: "100%",
+      //   height: "100%"
+      // }
+      );
       Reveal.configure({ mouseWheel: true });
     </script>
 
