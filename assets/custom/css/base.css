@@ -7,6 +7,10 @@
 .reveal h6 {
   font-family: 'Catamaran', "Tableau Book", Tableau, Arial, sans-serif;
 }
+.hidden {
+  display: none;
+  visibility: hidden;
+}
 html,body { 
   height: 100%; 
   margin: 0px; 
