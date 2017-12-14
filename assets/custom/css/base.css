@@ -16,6 +16,9 @@ html,body {
   margin: 0px; 
   padding: 0px; 
 }
+.reveal .controls[data-controls-layout="edges"] {
+    bottom: 100px;
+}
 span.title_span {
   color: #ff5733;
 }
@@ -52,6 +55,12 @@ header .jump-links .link a{
   display: inline-block;
   float: left;
 }
+.left .sources {
+  bottom: 0px;
+  font-size: 5px;
+  color: grey;
+  font-weight: 200;
+}
 .right {
   display: inline-block;
   float: right;
@@ -83,4 +92,13 @@ slide {
 }
 .left .supporting_text span, p {
   font-size: 12px;
+  margin-top: 5px;
+}
+.left .supporting_text span.sources span {
+  bottom: 0px;
+  font-size: 6px;
+  line-height: 6px;
+  color: grey;
+  font-weight: 200;
+  display: block;
 }
