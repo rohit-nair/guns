@@ -34,6 +34,9 @@ header {
 header span {
   font-size: 25px;
 }
+header span a.website-title {
+  color: #F06355 !important;
+}
 header .jump-links {
   float: right;
 }
